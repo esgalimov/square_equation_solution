@@ -1,0 +1,25 @@
+digraph "main"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="main",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="debug_solving",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$func_8cpp.html#ac9ee196c0eaa3081b06bb8d624b36743",tooltip="Unit tests for solvingSq it import values from test.txt and compare solutions with these values then ..."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="is_equal",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$func_8cpp.html#af21aa176761e3c76829edd7fd18466f4",tooltip="Function for compare two double numbers."];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="solvingSq",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$func_8cpp.html#a0f010c63b5779b470a202b09dea85947",tooltip="Function what solves square eqution ax2 + bx + c = 0 - equation type."];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="solvingLin",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$func_8cpp.html#a1f111ad2f3782f27ac098682f8571abc",tooltip="Function what solves linear eqution It is one of cases when coefficient a = 0 bx + c = 0 - equation t..."];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="flag_checking",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$func_8cpp.html#af64614c3d8ec8ff8ed93f345c7665d56",tooltip="Function for checking console arguments if -h - print path to the file's folder."];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="import_koef",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$func_8cpp.html#a6ad9ac22ba6048e3f60e7cf32457b42c",tooltip="Function fot import number from console."];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="output",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$func_8cpp.html#a3c231fc67611e15de83d2fc86af0bc49",tooltip="Function for printing roots."];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

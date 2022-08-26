@@ -1,0 +1,65 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Square equation solving programm
+
+[WINDOWS]
+main="Square equation solving programm","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+files.html
+func_8cpp.html
+globals.html
+globals_defs.html
+globals_enum.html
+globals_eval.html
+globals_func.html
+globals_vars.html
+graph_legend.html
+header_8h.html
+header_8h_source.html
+index.html
+main_8cpp.html
+bc_s.png
+bdwn.png
+closed.png
+doc.png
+doxygen.svg
+folderclosed.png
+folderopen.png
+func_8cpp__incl.pdf
+func_8cpp__incl.png
+func_8cpp_a0f010c63b5779b470a202b09dea85947_cgraph.png
+func_8cpp_a1f111ad2f3782f27ac098682f8571abc_cgraph.png
+func_8cpp_ac9ee196c0eaa3081b06bb8d624b36743_cgraph.png
+graph_legend.png
+header_8h__dep__incl.pdf
+header_8h__dep__incl.png
+header_8h__incl.pdf
+header_8h__incl.png
+header_8h_a0f010c63b5779b470a202b09dea85947_cgraph.png
+header_8h_a1f111ad2f3782f27ac098682f8571abc_cgraph.png
+header_8h_ac9ee196c0eaa3081b06bb8d624b36743_cgraph.png
+main_8cpp__incl.pdf
+main_8cpp__incl.png
+main_8cpp_a0ddf1224851353fc92bfbff6f499fa97_cgraph.png
+nav_f.png
+nav_g.png
+nav_h.png
+open.png
+splitbar.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+doxygen.css
+dynsections.js
+jquery.js
+tabs.css

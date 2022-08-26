@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#ac22830a985e1daed0c9eadba8c6f606e"><param name="Name" value="ASSERT(condition)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a596344e5a2992d2beec43b76a6294de0"><param name="Name" value="EPSILON"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7dea01a9fbd94fccb4bd142ea6fec3e6313b"><param name="Name" value="ONEROOT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7dea510e2edb47d50d53bdc01f877c47d9da"><param name="Name" value="SS_INF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7deaf5b8ca94cd032f92f4f6f098b2340d04"><param name="Name" value="TWOROOTS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7dea1df99e19da27ca1cc152b718efd001f6"><param name="Name" value="ZEROROOTS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#ac9ee196c0eaa3081b06bb8d624b36743"><param name="Name" value="debug_solving(void)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#ac9ee196c0eaa3081b06bb8d624b36743"><param name="Name" value="func.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#ac9ee196c0eaa3081b06bb8d624b36743"><param name="Name" value="debug_solving(void)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#ac9ee196c0eaa3081b06bb8d624b36743"><param name="Name" value="header.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#af64614c3d8ec8ff8ed93f345c7665d56"><param name="Name" value="flag_checking(int argc, char *argv[])"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#af64614c3d8ec8ff8ed93f345c7665d56"><param name="Name" value="func.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af64614c3d8ec8ff8ed93f345c7665d56"><param name="Name" value="flag_checking(int argc, char *argv[])"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af64614c3d8ec8ff8ed93f345c7665d56"><param name="Name" value="header.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html"><param name="Name" value="func.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#ac9ee196c0eaa3081b06bb8d624b36743"><param name="Name" value="debug_solving(void)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html"><param name="Name" value="func.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#af64614c3d8ec8ff8ed93f345c7665d56"><param name="Name" value="flag_checking(int argc, char *argv[])"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html"><param name="Name" value="func.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a6ad9ac22ba6048e3f60e7cf32457b42c"><param name="Name" value="import_koef(void)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html"><param name="Name" value="func.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#af21aa176761e3c76829edd7fd18466f4"><param name="Name" value="is_equal(double num1, double num2, double eps)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html"><param name="Name" value="func.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a3c231fc67611e15de83d2fc86af0bc49"><param name="Name" value="output(int num_of_roots, double x1, double x2)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html"><param name="Name" value="func.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a1f111ad2f3782f27ac098682f8571abc"><param name="Name" value="solvingLin(double b, double c, double *x1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html"><param name="Name" value="func.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a0f010c63b5779b470a202b09dea85947"><param name="Name" value="solvingSq(double a, double b, double c, double *x1, double *x2)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#ac22830a985e1daed0c9eadba8c6f606e"><param name="Name" value="ASSERT(condition)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a596344e5a2992d2beec43b76a6294de0"><param name="Name" value="EPSILON"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7dea01a9fbd94fccb4bd142ea6fec3e6313b"><param name="Name" value="ONEROOT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7dea510e2edb47d50d53bdc01f877c47d9da"><param name="Name" value="SS_INF"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7deaf5b8ca94cd032f92f4f6f098b2340d04"><param name="Name" value="TWOROOTS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7dea1df99e19da27ca1cc152b718efd001f6"><param name="Name" value="ZEROROOTS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#ac9ee196c0eaa3081b06bb8d624b36743"><param name="Name" value="debug_solving(void)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af64614c3d8ec8ff8ed93f345c7665d56"><param name="Name" value="flag_checking(int argc, char *argv[])"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af52f3cd8e78ae6fee013a919db8b5184"><param name="Name" value="import_koef()"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af21aa176761e3c76829edd7fd18466f4"><param name="Name" value="is_equal(double num1, double num2, double eps)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7de"><param name="Name" value="numRoots"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a3c231fc67611e15de83d2fc86af0bc49"><param name="Name" value="output(int num_of_roots, double x1, double x2)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a1f111ad2f3782f27ac098682f8571abc"><param name="Name" value="solvingLin(double b, double c, double *x1)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html"><param name="Name" value="header.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a0f010c63b5779b470a202b09dea85947"><param name="Name" value="solvingSq(double a, double b, double c, double *x1, double *x2)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af52f3cd8e78ae6fee013a919db8b5184"><param name="Name" value="import_koef()"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a6ad9ac22ba6048e3f60e7cf32457b42c"><param name="Name" value="import_koef(void)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#af21aa176761e3c76829edd7fd18466f4"><param name="Name" value="is_equal(double num1, double num2, double eps)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#af21aa176761e3c76829edd7fd18466f4"><param name="Name" value="func.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af21aa176761e3c76829edd7fd18466f4"><param name="Name" value="is_equal(double num1, double num2, double eps)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#af21aa176761e3c76829edd7fd18466f4"><param name="Name" value="header.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"><param name="Name" value="main(int argc, char *argv[])"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"><param name="Name" value="main.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a42a2998807b54c0825ba27e5517ae7de"><param name="Name" value="numRoots"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a3c231fc67611e15de83d2fc86af0bc49"><param name="Name" value="output(int num_of_roots, double x1, double x2)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a3c231fc67611e15de83d2fc86af0bc49"><param name="Name" value="func.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a3c231fc67611e15de83d2fc86af0bc49"><param name="Name" value="output(int num_of_roots, double x1, double x2)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a3c231fc67611e15de83d2fc86af0bc49"><param name="Name" value="header.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a1f111ad2f3782f27ac098682f8571abc"><param name="Name" value="solvingLin(double b, double c, double *x1)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a1f111ad2f3782f27ac098682f8571abc"><param name="Name" value="func.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a1f111ad2f3782f27ac098682f8571abc"><param name="Name" value="solvingLin(double b, double c, double *x1)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a1f111ad2f3782f27ac098682f8571abc"><param name="Name" value="header.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a0f010c63b5779b470a202b09dea85947"><param name="Name" value="solvingSq(double a, double b, double c, double *x1, double *x2)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="func_8cpp.html#a0f010c63b5779b470a202b09dea85947"><param name="Name" value="func.cpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a0f010c63b5779b470a202b09dea85947"><param name="Name" value="solvingSq(double a, double b, double c, double *x1, double *x2)"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="header_8h.html#a0f010c63b5779b470a202b09dea85947"><param name="Name" value="header.h"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
