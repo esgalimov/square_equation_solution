@@ -93,9 +93,9 @@ void output(int num_of_roots, double x1, double x2)
 
 int is_equal(double num1, double num2, double eps)
     {
-    assert(isfinite(num1));
-    assert(isfinite(num2));
-    assert(isfinite(eps));
+    ASSERT(isfinite(num1));
+    ASSERT(isfinite(num2));
+    ASSERT(isfinite(eps));
 
     return fabs(num1 - num2) < eps;
     }
@@ -168,4 +168,13 @@ void debug_solving(void)
         printf("Ошибка теста!");
 
     fclose(fp);
+    }
+
+void flag_checking(int argc, char *argv[])
+    {
+    char path[70];
+    getcwd(path, sizeof(path));
+    for (int i = 1; i < argc; i++)
+        if (!strcmp(argv[i], "-h"))
+            printf("%s\n", path);
     }

@@ -1,11 +1,15 @@
 #include "header.h"
 
 
-int main(void)
+int main(int argc, char *argv[])
     {
+    flag_checking(argc, argv);
+
     #ifdef DEBUG
     debug_solving();
     #endif
+
+    #ifndef DEBUG
 
     double a = NAN;
     double b = NAN;
@@ -15,7 +19,6 @@ int main(void)
     int num_of_roots = 0;
     char ch = 'n';
 
-    #ifndef DEBUG
     printf("Привет! Я могу решать квадратные уравнения!\n");
     printf("y. Решать!      n. Не надо(\n");
 
